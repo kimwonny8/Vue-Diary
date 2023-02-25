@@ -1,8 +1,12 @@
+## 제작
+
+2022년 11월 말, 모든 Vue.js 의 기능을 다 사용해서 만들어 본 일기장 프로젝트입니다.
+
+실제 DB랑 연동하진 않았으며 추후 Springboot와 db를 연동하여 완성시킬 계획입니다.
+
+
+
 ## 사용한 기능
-
-Vue 페이지 개별 프로젝트
-
-(기능당 1-2개 씩만 적어 두었습니다.)
 
 - [x]  life cycle
 
@@ -167,15 +171,15 @@ Vue 페이지 개별 프로젝트
 - 로그인 회원가입
   - 회원가입시 로컬스토리지에 저장해서 맞는 내용일 때만 로그인 가능
 
-<img src="./assets/Untitled.png" width=70%>
+<img src="./assets/Untitled.png" width=90%>
 
-<img src="./assets/Untitled (1).png" width=70%>
+<img src="./assets/Untitled (1).png" width=90%>
 
-<img src="./assets/Untitled (2).png" width=70%>
+<img src="./assets/Untitled (2).png" width=90%>
 
-<img src="./assets/Untitled (3).png" width=70%>
+<img src="./assets/Untitled (3).png" width=90%>
 
-<img src="./assets/Untitled (4).png" width=70%>
+<img src="./assets/Untitled (4).png" width=90%>
 
 <br>
 
@@ -188,12 +192,11 @@ Vue 페이지 개별 프로젝트
   - 일정 관리 누를 시 빈 값
   - 일정 추가시 리스트에 추가 저장함
 
-<img src="./assets/Untitled (5).png" width=70%>
+<img src="./assets/Untitled (5).png" width=90%>
 
-<img src="./assets/Untitled (6).png" width=70%>
+<img src="./assets/Untitled (6).png" width=90%>
 
-<img src="./assets/Untitled (7).png" width=70%>
-
+<img src="./assets/Untitled (7).png" width=90%>
 
 <br>
 
@@ -202,12 +205,12 @@ Vue 페이지 개별 프로젝트
 - json 파일 가져와서 일기 있다고 표시
   - 내용 수정 하고 나서 페이지가 새로고침되면서 리스트가 초기화 됨
 
-<img src="./assets/Untitled (8).png" width=70%>
+<img src="./assets/Untitled (8).png" width=90%>
 
-<img src="./assets/Untitled (9).png" width=70%>
+<img src="./assets/Untitled (9).png" width=90%>
 
-<img src="./assets/Untitled (10).png" width=70%>
+<img src="./assets/Untitled (10).png" width=90%>
 
-<img src="./assets/Untitled (11).png" width=70%>
+<img src="./assets/Untitled (11).png" width=90%>
 
-<img src="./assets/Untitled (12).png" width=70%>
+<img src="./assets/Untitled (12).png" width=90%>
