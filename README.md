@@ -2,7 +2,7 @@
 
 2022년 11월 말, 모든 Vue.js 의 기능을 다 사용해서 만들어 본 일기장 프로젝트입니다.
 
-실제 DB랑 연동하진 않았으며 추후 Springboot와 db를 연동하여 완성시킬 계획입니다.
+실제 DB랑 연동하진 않았으며 추후 Springboot와 db를 연동하여 완성시킬 계획입니다. - [완성](https://github.com/kimwonny8/MyDays-springboot)
 
 
 
